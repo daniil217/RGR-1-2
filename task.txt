@@ -1,0 +1,28 @@
+Recommendations for the work of Developer 1.
+Sequence of actions:
+
+Create a local repository;
+Create a master branch;
+Switch to the master branch;
+Create a file (txt format) and fill it with the text of some program or any text (commit the changes to the file);
+Create 3 branches (pre, vt1, vt2);
+Switch to the vt1 branch and make changes to the file on line 4 (commit the changes);
+Switch to the vt2 branch and delete lines 3-5 (commit the changes);
+Switch to the pre branch;
+Merge the vt1 branch with pre;
+Merge the vt2 branch with pre;
+Resolve any conflicts.
+Task 2
+Pair work.
+Recommendations for the work of 2 developers.
+Sequence of actions:
+
+Create an account;
+Create a repository and grant your partner write access to the repository;
+Perform preparatory work;
+Push the existing local repository to the server;
+Clone the repository;
+Make any changes to any files;
+Push the changes to the server;
+Merge your branch with your partner’s branch;
+Resolve any conflicts that may arise.
